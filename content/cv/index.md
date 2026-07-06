@@ -33,6 +33,8 @@ tags: ["cv"]
 
 | Year       | Type                   | Organisation                                                                            |
 | ---------- | ---------------------- | --------------------------------------------------------------------------------------- |
+| 2027–2029  | Research grant         | Hong Kong Research Grants Council (RGC) Early Career Scheme (ECS)                       |
+| 2026–2027  | Research grant         | HKUST SHSS Pilot study grant                                                            |
 | 2025–2028* | Research grant         | DFG (German Research Foundation) — *\*did not commence due to conflicting appointments* |
 | 2023       | **Postdoc Fellowship** | **JSPS** (Japan Society for the Promotion of Science)                                   |
 | 2018–2019  | Teaching project grant | Federal Ministry of Education                                                           |
@@ -96,6 +98,8 @@ tags: ["cv"]
 + *Journal of the Royal Asiatic Society*
 
 + *Modern Asian Studies*
+
++ *Modern China*
 
 ## Memberships
 
