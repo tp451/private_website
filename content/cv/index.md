@@ -101,6 +101,8 @@ tags: ["cv"]
 
 + *Modern China*
 
++ *Modern Intellectual History*
+
 ## Memberships
 
-+ AAS, EACS, DVCS
++ [AAS](https://www.asianstudies.org/), [EACS](https://chinesestudies.eu/), [HKADH](https://hkadh.org/), [DVCS](https://dvcs.eu/)
